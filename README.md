@@ -16,7 +16,7 @@ Silent Tabs is a simple Chrome extension that allows users to mute and unmute in
 2. Open Google Chrome and navigate to `chrome://extensions`.
 3. Enable "Developer mode" by toggling the switch in the top right corner.
 4. Click "Load unpacked" and select the directory containing the extension files.
-5. The Tab Muter extension should now appear in your Chrome toolbar.
+5. The Silent Tabs extension should now appear in your Chrome toolbar.
 
 ## Usage
 
