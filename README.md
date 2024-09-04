@@ -7,6 +7,9 @@ Silent Tabs is a simple Chrome extension that allows users to mute and unmute in
 ## Features
 
 - Mute/unmute the current tab with one click
+- Mute all tabs with one click
+- Unmute all tabs with one click
+- Set individual volume for each tab
 - Simple and intuitive user interface
 - Lightweight and fast performance
 
